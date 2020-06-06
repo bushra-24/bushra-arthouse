@@ -1,0 +1,179 @@
+body{
+    background-color: grey;
+}
+.navbar{
+    background-color: indianred !important;
+}
+.badge{
+    background-color: wheat !important;
+    color: indianred;
+    margin-left: 5px !important;
+}
+.card-title{
+    font-weight: bolder;
+    color: wheat;
+}
+.card-img-top1{
+    width: 250px !important;
+    height: 250px;
+}
+.card-img-top2{
+   width: 250px !important;
+    height: 250px;
+}
+.card-img-top3,.card-img-top4,.card-img-top5 {
+    width: 250px !important;
+    height: 250px;
+}
+.card-img-top6{
+    width: 250px !important;
+    height: 228px !important;
+}
+.badge-light{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-text{
+    font-style: italic;
+    color: gray;
+}
+.dropdown{
+    background-color: indianred;
+}
+.btn-primary{
+    width: 200px;
+}
+.nav-link{
+    color: whitesmoke;
+}
+.link{
+    color: indianred;
+}
+.h1{
+    color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 400px;
+}
+.card{
+    width: 250px !important;
+    height: auto !important;
+    margin-bottom: 5px;
+   background-color: wheat;
+}
+
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 601px) {
+    
+    h1{
+        color: wheat;
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 100px !important;
+        margin-top: -105px !important;
+        font-size: 80px;
+    }
+    h2{
+        color: whitesmoke;
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 500px;
+    }
+    h4{
+        color: peachpuff;
+        font-style: oblique;
+    }
+    p{
+        color: whitesmoke;
+        font-style: italic;
+    }
+   .main{
+       margin-left: 30px;
+       
+       
+   }
+   .btn-primary{
+       background-color: indianred;
+   }
+   .main1{
+       margin-left: 600px;
+       width: 600px;
+   }
+   .header1{
+       margin-left: -300px;
+       margin-top: 100px;
+      
+   }
+   .header2{
+       margin-left: -300px;
+       margin-top: 40px;
+   }
+   .main2{
+    margin-left: 900px;
+    margin-top: -40px;
+    width: 600px;
+    color:wheat;
+}
+.header{
+    margin-left:600px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+}
+  
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+
+  @media screen and (max-width: 600px) {
+    h1{
+        color: wheat;
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 100px !important;
+        margin-top: -105px !important;
+        font-size: 80px;
+    }
+    h2{
+        color: whitesmoke;
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 500px;
+    }
+    h4{
+        color:peachpuff;
+        font-style: oblique;
+    }
+    p{
+        color: whitesmoke;
+        font-style: italic;
+        text-align: justify;
+    }
+    main{
+        margin-left: 30px;
+        
+        
+    }
+    .main1{
+        margin-left: 600px;
+        width: 600px;
+    } 
+    .header2{
+        margin-left: -300px;
+        margin-top: 40px;
+    }
+    .main2{
+        margin-left: 900px;
+        width: 600px;
+    }
+}
+.header1{
+    margin-left: -300px;
+    margin-top: 100px;
+   
+} 
+.header{
+    margin-left:600px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+
+
+.img-fluid1{
+    margin-left: 750px;
+    margin-top: -90px;
+}
+
